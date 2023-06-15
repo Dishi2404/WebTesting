@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign In  Join AJIO</name>
+   <tag></tag>
+   <elementGuidId>f4c6e001-c1d4-48b5-a3e4-ddd56aa8427e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='appContainer']/div/div/header/div/ul/li/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f81dfadd-2409-4c98-8b78-04c157fbaef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>  login-form login-modal</value>
+      <webElementGuid>f37dbfab-4ea7-4932-96cc-eaeca98140cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In / Join AJIO</value>
+      <webElementGuid>b7494adf-f1bb-4f8d-aaa2-c9150e728600</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;appContainer&quot;)/div[@class=&quot;false header-wrapper&quot;]/div[@class=&quot;main-header dodShadow&quot;]/header[1]/div[@class=&quot;guest-header&quot;]/ul[1]/li[1]/span[@class=&quot;login-form login-modal&quot;]</value>
+      <webElementGuid>d082ae4c-236e-4998-aaba-6f16041a87ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='appContainer']/div/div/header/div/ul/li/span</value>
+      <webElementGuid>4047bc2f-8643-4a51-8014-bd3e85a94ce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Care'])[1]/preceding::span[1]</value>
+      <webElementGuid>3a7faabe-fb9d-4e9b-8da2-56fca2899fbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit AJIOLUXE'])[1]/preceding::span[1]</value>
+      <webElementGuid>1414c867-be93-4c9e-9f65-b1593e88f7c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign In / Join AJIO']/parent::*</value>
+      <webElementGuid>61983746-4149-48c3-8218-9fa25ac3841b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>21569a3f-d035-42a1-8a09-24f84f6bc098</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sign In / Join AJIO' or . = 'Sign In / Join AJIO')]</value>
+      <webElementGuid>a49ad963-6a66-44d9-93ef-be2c9c40aeee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

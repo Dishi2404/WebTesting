@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Home</name>
+   <tag></tag>
+   <elementGuidId>41e7bd24-9c14-4243-b114-514323550837</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.title.style-scope.ytd-mini-guide-entry-renderer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='endpoint']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>df52ccb6-ade1-40f2-92c1-7549f50ae531</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title style-scope ytd-mini-guide-entry-renderer</value>
+      <webElementGuid>2a352309-491d-4adb-9b65-9f5297efbd9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home</value>
+      <webElementGuid>9b216e63-e757-429b-9411-db502f82c841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/ytd-app[1]/div[@id=&quot;content&quot;]/ytd-mini-guide-renderer[@class=&quot;style-scope ytd-app&quot;]/div[@id=&quot;items&quot;]/ytd-mini-guide-entry-renderer[@class=&quot;style-scope ytd-mini-guide-renderer&quot;]/a[@id=&quot;endpoint&quot;]/span[@class=&quot;title style-scope ytd-mini-guide-entry-renderer&quot;]</value>
+      <webElementGuid>60f95990-becf-43e7-a051-5775fbd30614</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='endpoint']/span</value>
+      <webElementGuid>59cf72e5-0b4c-46e7-9930-ccf9c691ef97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IN'])[2]/following::span[1]</value>
+      <webElementGuid>c7c972e8-139e-456d-b20f-e816ad7033e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::span[2]</value>
+      <webElementGuid>aeeea842-8ba2-4a50-b5ac-5ee22b507e4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shorts'])[1]/preceding::span[1]</value>
+      <webElementGuid>4f0076dc-079e-4e3d-a430-c0ffd49f89b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Home']/parent::*</value>
+      <webElementGuid>3f892d6b-e77c-4aa5-9c57-b6fb4954a133</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>71584e81-0dfc-4528-b4cb-ce7519167cef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Home' or . = 'Home')]</value>
+      <webElementGuid>ca367947-f981-44e5-ac7b-6d0be53e01fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

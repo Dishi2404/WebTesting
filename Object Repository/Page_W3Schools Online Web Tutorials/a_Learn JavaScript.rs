@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Learn JavaScript</name>
+   <tag></tag>
+   <elementGuidId>44fc4347-107b-4536-a599-58a8a26e00a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='nav_tutorials']/div/div/div[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.w3-bar-item.w3-button.acctop-link.ga-top-drop.ga-top-drop-tut-js</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>caaf0350-9df6-4c84-adbb-0a024b066fad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w3-bar-item w3-button acctop-link ga-top-drop ga-top-drop-tut-js</value>
+      <webElementGuid>a2d74b22-fc81-4dd4-a1ad-51f5bb0520f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/js/default.asp</value>
+      <webElementGuid>6f64b86a-9afb-43f2-832e-bf7a5382beee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>JavaScript Tutorial</value>
+      <webElementGuid>bba139a5-55ee-40c6-9e06-7c57462f4ba0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learn JavaScript</value>
+      <webElementGuid>7ebc62fd-8bb2-4233-91f6-45677dfe6109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav_tutorials&quot;)/div[@class=&quot;w3-content&quot;]/div[@class=&quot;w3-row-padding w3-bar-block&quot;]/div[@class=&quot;w3-col l4 m6&quot;]/a[@class=&quot;w3-bar-item w3-button acctop-link ga-top-drop ga-top-drop-tut-js&quot;]</value>
+      <webElementGuid>4a6bbbb3-532f-4030-a1d8-c5fb2a78f66b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='nav_tutorials']/div/div/div[3]/a</value>
+      <webElementGuid>cf90dc92-34f1-4f27-b4d5-34731722d9bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JavaScript'])[1]/following::a[1]</value>
+      <webElementGuid>08b3960e-63af-47d5-9e9d-ea7db51e7f2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join our Newsletter'])[1]/following::a[1]</value>
+      <webElementGuid>2366e550-7ded-4ff8-a8c6-6b730212edfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutorial'])[26]/preceding::a[1]</value>
+      <webElementGuid>dfac2a7e-88a6-4157-93fd-c84b79e06901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/js/default.asp')]</value>
+      <webElementGuid>a64d55ba-1a68-4c0e-8f1b-fa38fbb5ec8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>34ace2f1-f9b1-417c-9234-9586b35ac0e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/js/default.asp' and @title = 'JavaScript Tutorial' and (text() = 'Learn JavaScript' or . = 'Learn JavaScript')]</value>
+      <webElementGuid>97149665-ed4d-49a7-9d32-be79b279bdc3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>yt-formatted-string_Bollywood Music</name>
+   <tag></tag>
+   <elementGuidId>efc8c2df-1dcc-4f80-ab0b-5b79bc5f69aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//yt-formatted-string[@id='text'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>yt-formatted-string</value>
+      <webElementGuid>9b91f353-edbc-4c8f-b869-40ded3d2d242</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>0ab349c2-c9bd-4bda-bdef-ee407ade2e10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-scope yt-chip-cloud-chip-renderer</value>
+      <webElementGuid>2963194b-ee4e-4825-9a7e-067477c99a5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Bollywood Music</value>
+      <webElementGuid>1b3ea0f9-7856-4c7d-b087-0fb4b31c0313</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bollywood Music</value>
+      <webElementGuid>feba27c1-a4bd-4a52-b68c-73a6b33da8c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chips&quot;)/yt-chip-cloud-chip-renderer[@class=&quot;style-scope ytd-feed-filter-chip-bar-renderer&quot;]/yt-formatted-string[@id=&quot;text&quot;]</value>
+      <webElementGuid>99d41cc0-6b9c-4c4a-a64e-c4d2cbc4116b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//yt-formatted-string[@id='text'])[4]</value>
+      <webElementGuid>710f70d1-8cb5-4d92-84f9-55ddbe376c75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//iron-selector[@id='chips']/yt-chip-cloud-chip-renderer[4]/yt-formatted-string</value>
+      <webElementGuid>06a4f6f4-6849-4229-9b0c-0155daa72a12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T-Series'])[1]/following::yt-formatted-string[1]</value>
+      <webElementGuid>3468de44-8458-446c-81ee-a4a9c7d02daa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Music'])[1]/following::yt-formatted-string[2]</value>
+      <webElementGuid>14b21eae-3361-4558-bf2d-8dacd7598e12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tamil Cinema'])[1]/preceding::yt-formatted-string[1]</value>
+      <webElementGuid>b3330fd9-4488-49f4-a2d0-159b06670800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scene'])[1]/preceding::yt-formatted-string[2]</value>
+      <webElementGuid>27512591-8c92-445f-8cac-19f9066cbbac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bollywood Music']/parent::*</value>
+      <webElementGuid>6955f1b8-5d3f-4fc7-8c96-d2453655ccbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//yt-chip-cloud-chip-renderer[4]/yt-formatted-string</value>
+      <webElementGuid>9d1dd1f2-9f79-4b7b-a734-88025fcf7c64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//yt-formatted-string[@id = 'text' and @title = 'Bollywood Music' and (text() = 'Bollywood Music' or . = 'Bollywood Music')]</value>
+      <webElementGuid>3b685f86-fca3-4690-bbe2-a8ac91364de2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

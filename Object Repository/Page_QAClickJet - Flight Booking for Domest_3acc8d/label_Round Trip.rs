@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Round Trip</name>
+   <tag></tag>
+   <elementGuidId>77c5e671-a8d5-4443-b8e8-be6893eaab0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2) > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ctl00_mainContent_rbtnl_Trip']/tbody/tr/td[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>17ef7ff5-d185-4487-ab1b-d755d687ee04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ctl00_mainContent_rbtnl_Trip_1</value>
+      <webElementGuid>115bdacd-c129-483e-a488-fad2fc74a28d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Round Trip</value>
+      <webElementGuid>9780f479-b225-4f91-a1ac-80edd3d489fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_mainContent_rbtnl_Trip&quot;)/tbody[1]/tr[1]/td[2]/label[1]</value>
+      <webElementGuid>b1f7cc2f-5f92-499a-a45c-7181877c1de3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_mainContent_rbtnl_Trip']/tbody/tr/td[2]/label</value>
+      <webElementGuid>e0db8c52-6a5b-41bd-87d5-8421384f1622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='One Way'])[1]/following::label[1]</value>
+      <webElementGuid>b1dc0bda-1437-45c9-be1c-03b7ec1c338d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[1]/following::label[2]</value>
+      <webElementGuid>34097a47-5a57-4f35-b794-9057e7a357f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multicity'])[1]/preceding::label[1]</value>
+      <webElementGuid>0430a67d-259c-4312-a825-e361e4baadb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::label[2]</value>
+      <webElementGuid>bde68555-b5ef-40f7-8eb3-2a689bcead95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Round Trip']/parent::*</value>
+      <webElementGuid>c508f38b-7bd6-472b-a1f8-81b692fbdaf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/label</value>
+      <webElementGuid>f9a647d3-df5c-494d-9ba8-f15da4587e21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Round Trip' or . = 'Round Trip')]</value>
+      <webElementGuid>504d0ebe-719d-43e2-bc6d-c7be92c31ef2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

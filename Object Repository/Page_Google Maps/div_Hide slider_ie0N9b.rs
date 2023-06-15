@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hide slider_ie0N9b</name>
+   <tag></tag>
+   <elementGuidId>f4c11518-68db-40a4-bdea-94ffb21d5c37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='widget-zoom-out']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#widget-zoom-out > div.ie0N9b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>28abc534-9013-4944-ac9b-ccd31352fb0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ie0N9b</value>
+      <webElementGuid>e50c0449-9939-443b-b72d-578d465d99d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widget-zoom-out&quot;)/div[@class=&quot;ie0N9b&quot;]</value>
+      <webElementGuid>f70b5e4a-8713-4c6b-bf97-8d2822aeafb1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='widget-zoom-out']/div</value>
+      <webElementGuid>dd83dde2-4e96-4ebf-b137-f2eb030df19d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/button/div</value>
+      <webElementGuid>3f02c1a0-60e3-46cd-ad58-c2566e7695d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

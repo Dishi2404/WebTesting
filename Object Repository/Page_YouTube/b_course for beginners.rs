@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_course for beginners</name>
+   <tag></tag>
+   <elementGuidId>9573ab59-dcc9-409a-a310-b476b5d5df14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sbse0']/div[2]/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>c490b483-b989-4217-8d35-d501e675bdd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> course for beginners</value>
+      <webElementGuid>d1b15197-664a-4fcd-a622-65a8ebf1af65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sbse0&quot;)/div[@class=&quot;sbqs_c&quot;]/b[1]</value>
+      <webElementGuid>1c4228d2-3246-4ee0-9c83-8e883f69fa11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sbse0']/div[2]/b</value>
+      <webElementGuid>f9ac9104-93e5-4172-90c7-d0a60fa5e6ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'sbse0', '&quot;', ')/div[@class=', '&quot;', 'sbqs_c', '&quot;', ']/b[1]')])[1]/following::b[1]</value>
+      <webElementGuid>a4eb14e8-c1d0-487f-ac97-168d923b0797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='beat'])[1]/preceding::b[1]</value>
+      <webElementGuid>5d20df6d-e091-4e0d-bc90-b9794efdc612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='course for beginners']/parent::*</value>
+      <webElementGuid>fc5e46ac-2b0a-4edc-975d-bbec4b8a1282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>67195558-7a15-4521-8773-f207152f2424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = ' course for beginners' or . = ' course for beginners')]</value>
+      <webElementGuid>d86a8c65-9339-4090-b831-5dcdf137565b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

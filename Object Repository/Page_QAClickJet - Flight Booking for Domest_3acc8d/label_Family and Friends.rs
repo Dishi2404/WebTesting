@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Family and Friends</name>
+   <tag></tag>
+   <elementGuidId>d60a9abb-c438-4870-ab9c-8ee80ce46b00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#familyandfriend > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='familyandfriend']/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>48f474e4-d2ee-4546-9194-58bdbb14caab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ctl00_mainContent_chk_friendsandfamily</value>
+      <webElementGuid>d11e425e-eb7f-4d93-affd-9f360a9c3c5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Family and Friends</value>
+      <webElementGuid>5cb78a86-9d3f-4075-942d-388a66e71274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;familyandfriend&quot;)/label[1]</value>
+      <webElementGuid>e389d955-ac86-4569-96a4-358db56aed5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='familyandfriend']/label</value>
+      <webElementGuid>0a83c8cf-a6b2-4e28-9208-e92b9dd84421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wed, Jul 12 2023'])[1]/following::label[1]</value>
+      <webElementGuid>738c00bc-66eb-4870-8350-9f9dec8cc817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Depart date'])[5]/following::label[1]</value>
+      <webElementGuid>e4f11de2-1574-4785-b90f-95af41503c04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Senior Citizen'])[1]/preceding::label[1]</value>
+      <webElementGuid>7cd4802a-8baf-498a-a997-178f4e4734b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indian Armed Forces'])[1]/preceding::label[2]</value>
+      <webElementGuid>f025b06c-6b5d-47a4-aa65-bb13a09144b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Family and Friends']/parent::*</value>
+      <webElementGuid>68cfb460-7b6b-4dc8-8219-e36c204dc746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/label</value>
+      <webElementGuid>93efb5f7-3042-4495-ba64-fae1557c8239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Family and Friends' or . = ' Family and Friends')]</value>
+      <webElementGuid>efb5c7d9-b916-4db9-b45d-c06c939e7a77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

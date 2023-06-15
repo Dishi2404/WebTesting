@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Home</name>
+   <tag></tag>
+   <elementGuidId>a61add5c-1967-4366-8d6d-e0c7a8edfd79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.w3-left.w3-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ee796fd5-cf10-4331-8998-fffbf1a90b8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w3-left w3-btn</value>
+      <webElementGuid>d319e22b-9f75-429d-8265-18a2a70f2960</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/default.asp</value>
+      <webElementGuid>dc987f8d-eefa-4d3b-bff4-b9b9809409aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>❮ Home</value>
+      <webElementGuid>10f5d739-71de-4858-8c89-0250d89b8a0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;w3-clear nextprev&quot;]/a[@class=&quot;w3-left w3-btn&quot;]</value>
+      <webElementGuid>c6fb69ec-056f-4e5e-8197-09f5a4077f43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div[2]/a</value>
+      <webElementGuid>a09c875c-221b-4eeb-a831-9f5a8020de63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'❮ Home')]</value>
+      <webElementGuid>eea97a74-8c9e-4d13-8a16-0cf52949aa51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutorial'])[69]/following::a[1]</value>
+      <webElementGuid>b8e395a6-d13e-404a-bfab-c22bd3b70113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next ❯'])[1]/preceding::a[1]</value>
+      <webElementGuid>92a68912-4e01-4850-aa3f-832a25b3c4ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start learning JavaScript now »'])[1]/preceding::a[2]</value>
+      <webElementGuid>bc68f260-8297-4815-8b7a-37b1a89a1194</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='❮ Home']/parent::*</value>
+      <webElementGuid>2cdee2ef-7fb7-45b0-b7b5-6138518a30b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/default.asp')])[103]</value>
+      <webElementGuid>0de44fd5-4016-464a-af34-fe9c5c3261cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/a</value>
+      <webElementGuid>bd360860-5135-4f9e-a308-6f403d72df3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/default.asp' and (text() = '❮ Home' or . = '❮ Home')]</value>
+      <webElementGuid>b89b5096-e438-482c-ad58-371904dbbe7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

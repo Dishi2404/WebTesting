@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Search Google Maps_eYqqWd vF7Cdb</name>
+   <tag></tag>
+   <elementGuidId>c5aed4ea-fe4f-4b16-abc7-98b6dbba2c1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='hArJGc']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.eYqqWd.vF7Cdb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>08a03ff3-3b4b-4533-bf48-2be4f8975565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>eYqqWd vF7Cdb</value>
+      <webElementGuid>bb4731c6-edf0-4c3c-860c-734f83a0cb82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hArJGc&quot;)/div[@class=&quot;eYqqWd vF7Cdb&quot;]</value>
+      <webElementGuid>8e536e2c-7364-4ba8-8e49-16ca6ae4ef02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='hArJGc']/div</value>
+      <webElementGuid>5ea87424-8472-4033-b554-53f614290c73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>7466cfe8-4012-4e3c-86cc-1cbf32a969a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
