@@ -23,5 +23,5 @@ WebUI.navigateToUrl('https://www.google.com/')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Google/img_Sign in_lnXdpd'))
 
-WebUI.closeBrowser()
+WebUI.takeScreenshotAsCheckpoint('Screenshot 8')
 

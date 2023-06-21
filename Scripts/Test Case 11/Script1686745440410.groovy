@@ -23,5 +23,5 @@ WebUI.navigateToUrl('https://rahulshettyacademy.com/dropdownsPractise/')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_QAClickJet - Flight Booking for Domest_3acc8d/label_Family and Friends'))
 
-WebUI.closeBrowser()
+WebUI.takeScreenshotAsCheckpoint('Screenshot 2')
 

@@ -24,5 +24,5 @@ WebUI.navigateToUrl('https://rahulshettyacademy.com/dropdownsPractise/')
 WebUI.verifyElementText(findTestObject('Object Repository/Page_QAClickJet - Flight Booking for Domest_3acc8d/label_Multicity'), 
     'Multicity')
 
-WebUI.closeBrowser()
+WebUI.takeScreenshotAsCheckpoint('Screenshot 4')
 

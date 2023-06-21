@@ -26,5 +26,5 @@ WebUI.setText(findTestObject('Object Repository/Page_QAClickJet - Flight Booking
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_QAClickJet - Flight Booking for Domest_3acc8d/a_India_1_2_3'))
 
-WebUI.closeBrowser()
+WebUI.takeScreenshotAsCheckpoint('Screenshot 6')
 

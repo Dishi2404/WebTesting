@@ -25,5 +25,5 @@ WebUI.maximizeWindow()
 
 WebUI.getUrl()
 
-WebUI.closeBrowser()
+WebUI.takeScreenshotAsCheckpoint('Screenshot 1')
 

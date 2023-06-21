@@ -23,5 +23,5 @@ WebUI.navigateToUrl('https://rahulshettyacademy.com/dropdownsPractise/')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_QAClickJet - Flight Booking for Domest_3acc8d/input_Wed, Jul 12 2023_ctl00mainContentchk__47242d'))
 
-WebUI.closeBrowser()
+WebUI.takeScreenshotAsCheckpoint('Screenshot 3')
 

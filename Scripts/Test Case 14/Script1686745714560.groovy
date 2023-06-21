@@ -23,5 +23,5 @@ WebUI.navigateToUrl('https://rahulshettyacademy.com/dropdownsPractise/')
 
 WebUI.getPageWidth()
 
-WebUI.closeBrowser()
+WebUI.takeScreenshotAsCheckpoint('Screenshot 5')
 

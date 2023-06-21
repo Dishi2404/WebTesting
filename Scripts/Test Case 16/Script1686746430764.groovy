@@ -27,5 +27,5 @@ WebUI.click(findTestObject('Object Repository/Page_Google/span_automation engine
 
 WebUI.click(findTestObject('Object Repository/Page_automation engineer - Google Search/div_Images'))
 
-WebUI.closeBrowser()
+WebUI.takeScreenshotAsCheckpoint('Screenshiot 7')
 

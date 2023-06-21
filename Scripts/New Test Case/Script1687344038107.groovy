@@ -19,9 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/?gws_rd=ssl')
+WebUI.navigateToUrl('https://www.youtube.com/')
 
-WebUI.getAllLinksOnCurrentPage(false, [])
+WebUI.setText(findTestObject('Object Repository/Page_YouTube/input_Skip navigation_search_query'), 'testing')
 
-WebUI.takeScreenshotAsCheckpoint('Screenshot 9')
+WebUI.click(findTestObject('Object Repository/Page_YouTube/yt-icon_Skip navigation_style-scope ytd-searchbox'))
+
+WebUI.takeScreenshotAsCheckpoint('Screenshot Testing')
 
