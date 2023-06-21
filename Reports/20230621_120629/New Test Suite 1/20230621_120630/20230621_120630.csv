@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite 1,Chrome 114.0.0.0,,,2023-06-21 12:06:37,2023-06-21 12:06:46,8.547s,PASSED
+,,,,,,,
+Test Cases/Google tittle,Chrome 114.0.0.0,,,2023-06-21 12:06:38,2023-06-21 12:06:46,8.164s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-21 12:06:38,2023-06-21 12:06:42,3.773s,PASSED
+"navigateToUrl(""https://www.youtube.com/"")",Chrome 114.0.0.0,,,2023-06-21 12:06:42,2023-06-21 12:06:45,2.771s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-06-21 12:06:45,2023-06-21 12:06:46,1.283s,PASSED

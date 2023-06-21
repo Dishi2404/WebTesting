@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>New Test Suite 1</name>
+   <name>New Test Suite 3</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>0</numberOfRerun>
+   <numberOfRerun>3</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>9e157b1e-29c4-4cd5-9d09-eb1b8ce0ae1a</testSuiteGuid>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>f1542a4e-f76d-4883-994f-ec6aa8dca469</testSuiteGuid>
    <testCaseLink>
-      <guid>81ee66e7-4718-4fe1-9f4a-23be5eef8fc7</guid>
+      <guid>a172a899-c5a4-4425-801c-19256963d0c5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Google tittle</testCaseId>
